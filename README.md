@@ -1,6 +1,6 @@
 # Bankist App
 
-A minimalistic banking application that enables users to track transactions, check account balances, transfer funds, request loans, and manage accounts. This web-based application simulates basic bank functionalities, enhancing user experience with formatted date, time, and currency displays based on different locales.
+A minimalistic banking application that enables users to track transactions, check account balances, transfer funds, request loans, and manage accounts. This web-based application simulates basic bank functionalities, enhancing user experience with formatted date, time, and currency displays based on different locales. [TRY NOW](https://qyuzet.github.io/js-bankist-app/)
 
 ## Table of Contents
 
